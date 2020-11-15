@@ -3,4 +3,7 @@ public class Chien extends Animal {
         this.coordonnees.abs += x;
         this.coordonnees.ord += y;
     }
+    public void faireDuBruit(){
+        System.out.println("Je suis un chien waouf!");
+    }
 }
