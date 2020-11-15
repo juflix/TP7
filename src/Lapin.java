@@ -1,3 +1,3 @@
 public class Lapin {
-    erreur;
+    // correction de l'erreur
 }
